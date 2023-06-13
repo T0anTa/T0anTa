@@ -1,4 +1,4 @@
-## Hi there, I'm Cozark ✔️
+## Hi there, I'm Toan ✔️
 
 > [![View count](https://visitcount.itsvg.in/api?id=T0anTa&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in/api?id=T0anTa)
 
@@ -6,7 +6,7 @@
 <p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2CF785&width=435&lines=I'm+a+backend+developer"></p>
 
 - 🇻🇳 : I'm from VietNam
-- 📧 : Contact me at [longho250702@gmail.com](https://www.facebook.com/longho.2002)
+- 📧 : Contact me at [taquoctoan1412@gmail.com]
 - ❤️ : I'm passionate about:
   - 🪐 Operating Systems (Windows & Linux)
   - 🖥️ Website Developer
@@ -15,7 +15,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-[[Facebook](https://www.facebook.com/longho.2002)]
+[[Facebook](https://www.facebook.com/toanta123)]
 
 ### 🛠 Languages and Tools
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
